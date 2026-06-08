@@ -1,0 +1,4 @@
+refund for customer id: 231 with reason: Customer requests a refund for broadband plan 500 BDT.
+refund for customer id: 231 with reason: Customer states they had a 500 BDT plan and need a refund now.
+refund for customer id: 231 with reason: Customer explicitly requested a refund now.
+refund for customer id: 234 with reason: Slow speed internet issues
